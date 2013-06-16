@@ -1,2 +1,1 @@
-This is my first file. checking the file
-Second line is added to the first file. 
+This is my first file. checking the file.
